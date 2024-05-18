@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpretability - Clinical Decision Support | Will Bolton</title>
+    <link>http://localhost:1313/tag/interpretability-clinical-decision-support/</link>
+      <atom:link href="http://localhost:1313/tag/interpretability-clinical-decision-support/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interpretability - Clinical Decision Support</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5e7fd483dc7a905bda29ff17f220e7b2_360339_512x512_fill_lanczos_center_3.png</url>
+      <title>Interpretability - Clinical Decision Support</title>
+      <link>http://localhost:1313/tag/interpretability-clinical-decision-support/</link>
+    </image>
+    
+    <item>
+      <title>AI based clinical decision support system for intravenous to oral antibiotic switching</title>
+      <link>http://localhost:1313/project/cdss_demo/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cdss_demo/</guid>
+      <description>&lt;p&gt;A demo of the intravenous to oral antibiotic switch clinical decision support system with case vignettes. This is being used for research study to understand how clinicians involved in antibiotic prescribing interact with such as system and if AI predictions influence decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

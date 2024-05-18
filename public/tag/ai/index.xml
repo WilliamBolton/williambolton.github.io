@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | Will Bolton</title>
+    <link>http://localhost:1313/tag/ai/</link>
+      <atom:link href="http://localhost:1313/tag/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5e7fd483dc7a905bda29ff17f220e7b2_360339_512x512_fill_lanczos_center_3.png</url>
+      <title>AI</title>
+      <link>http://localhost:1313/tag/ai/</link>
+    </image>
+    
+    <item>
+      <title>Reliability of Biomedical LLM Assistants at ICLR 2024</title>
+      <link>http://localhost:1313/talk/reliability-of-biomedical-llm-assistants-at-iclr-2024/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/reliability-of-biomedical-llm-assistants-at-iclr-2024/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RAmBLA: Reliability AssesMent for Biomedical LLM Assistants</title>
+      <link>http://localhost:1313/publication/rambla/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rambla/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence Clinical Decision Support for Antibiotic Optimisation at ESCMID 2024</title>
+      <link>http://localhost:1313/talk/artificial-intelligence-clinical-decision-support-for-antibiotic-optimisation-at-escmid-2024/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/artificial-intelligence-clinical-decision-support-for-antibiotic-optimisation-at-escmid-2024/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generative AI for a smart global disease dashboard</title>
+      <link>http://localhost:1313/project/biothreat_demo/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/biothreat_demo/</guid>
+      <description>&lt;p&gt;The problem we tackled was detecting, monitoring, and briefing ministers on any potential emerging biological threats. Our solution, initially focused on flu, consolidated global information, and presented it in three distinct ways. Firstly, a weekly summary grounded in trusted resources is produced using retrieval-augmented generation and an LLM. Secondly through the NewsCatcher API, entity extraction, and sentiment analysis, daily insights are provided. Finally, we use the reasoning abilities of foundational models to compare the weekly and daily summaries to historical data and analyse if any potential biothreats are emerging. By collating numerous trusted sources, extracting key figures, and providing analysis, our solution provides a unique and comprehensive view on emerging biothreats for key decision makers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Influenza Dashboard powered by Generative AI</title>
+      <link>http://localhost:1313/talk/global-influenza-dashboard-powered-by-generative-ai/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/global-influenza-dashboard-powered-by-generative-ai/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Co-morbidity Representation in Artificial Intelligence at AAAI 2024</title>
+      <link>http://localhost:1313/talk/co-morbidity-representation-in-artificial-intelligence-at-aaai-2024/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/co-morbidity-representation-in-artificial-intelligence-at-aaai-2024/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Antibiotic Stewardship</title>
+      <link>http://localhost:1313/talk/artificial-intelligence-for-antibiotic-stewardship/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/artificial-intelligence-for-antibiotic-stewardship/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Co-morbidity Representation in Artificial Intelligence: Tapping into Unused Clinical Knowledge</title>
+      <link>http://localhost:1313/publication/co-morbidity/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/co-morbidity/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personalising intravenous to oral antibiotic switch decision making through fair interpretable machine learning</title>
+      <link>http://localhost:1313/publication/ivos/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ivos/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Individualised Antibiotic Readmission Prediction</title>
+      <link>http://localhost:1313/project/readmission/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/readmission/</guid>
+      <description>&lt;p&gt;Antimicrobial resistance (AMR) is one of the leading causes of death worldwide. In 2019, bacterial AMR was found to be associated with approximately 4.95 million of deaths across 204 countries with 1.2 million of them directly attributed to it. Misuse and overuse of antibiotics are significant drivers in the development of AMR. To deal with AMR, a multi-modal approach is needed including antimicrobial stewardship to preserve the ef- fectiveness of currently available agents. Recent research has focused on using electronic health records (EHRs) for infection diagnoses and antibiotic therapy selection through machine learning (ML), but little work has focused on antimicrobial stewardship. Inade- quate, ineffective or incomplete antibiotic treatment often leads to antibiotic retreatment (antibiotic readmission), causing unnecessary and excessive use of antibiotics.&lt;/p&gt;
+&lt;p&gt;This project applied electronic health records of 2,189 intensive care unit (ICU) patients from the MIMIC-IV database to develop ML-based decision support models using deep learning approach to reliably predict whether ICU patients will be retreated with antibiotic if current antibiotic treatment is discontinued. This project is formulated and addressed as both classification and regression tasks. Accurately predicting antibiotic readmission (antibiotic retreatment) for ICU patients could be extremely helpful in optimising antibiotic treatment to combat AMR by providing individualised predictions to support the decision on continuation or cessation of antibiotic treatment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning based clinical decision support for individualised antibiotic side effect prediction</title>
+      <link>http://localhost:1313/project/side_effect/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/side_effect/</guid>
+      <description>&lt;p&gt;In this study, we present a machine learning-based clinical decision support system for the individualised prediction of Acute Kidney Injury (AKI) following a Vancomycin with Piperacillin-Tazobactam (VPT) ad- ministration. AKI can be a critical side effect associated with the use of antibiotics, particularly in severely ill patients. Consequently, from a clinical perspective, being able to accurately predict the risk of AKI on an individual patient basis can contribute significantly to the decision making process by supporting decisions such as initiation and cessation of treatment as well as frequency of monitoring.&lt;/p&gt;
+&lt;p&gt;Our work uses a series of machine learning algorithms based on the electronic health records (EHR) of all the patients who were administered VPT in order to develop a predictive model for AKI. Taking into account that their corresponding explicit diagnoses stored are lacking timestamps and therefore cannot be evaluated in terms of reliability, it includes the development of an implicit label generation algorithm that can be used to produce accurate and detailed diagnostic information based on KDIGO AKI guidelines.&lt;/p&gt;
+&lt;p&gt;After applying a wide range of filters and experimenting with several data configurations, a comprehensive dataset was formed by incorporating patient demographics, medical history, and laboratory values and was used to train and evaluate our selection of algorithms. The final results obtained with our best performing model indicated a high level of effectiveness for our binary classifier in predicting the occurrence of AKI following a VPT administration. Specifically, an AUC estimation of ≈ 0.83 was achieved using a trained logistic regression model and 10-fold cross validation. This demonstrates a balanced trade off between sen- sitivity and specificity and showcases the model’s strong ability in distinguishing between the two classes.&lt;/p&gt;
+&lt;p&gt;In order to ascertain the validity of our results, a second EHR database was utilised. This indicated a consistency in the performance attained and consequently verified the generalisability of our model. As a result, we can conclude that the use of our suggested model could provide credible information to clinicians regarding potential side effects from antibiotic prescribing, enabling them to make informed decisions and optimise their use.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Solutions for Infectious Disease Session at ECCMID 2023</title>
+      <link>http://localhost:1313/talk/digital-solutions-for-infectious-disease-session-at-eccmid-2023/</link>
+      <pubDate>Sat, 15 Apr 2023 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/digital-solutions-for-infectious-disease-session-at-eccmid-2023/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning and synthetic outcome estimation for individualised antimicrobial cessation</title>
+      <link>http://localhost:1313/publication/cessation/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cessation/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Two Sides of Artificial Inteligence</title>
+      <link>http://localhost:1313/project/zine/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/zine/</guid>
+      <description>&lt;p&gt;The aim of the project was to create a small, accessible booklet in a zine format illustrating the key ideas behind the use of data, AI, and decision-support with a focus on healthcare applications. The zine is beginner friendly and tackle these topics from the prospective of those producing AI systems and those using them. It also touches on specific points including bias, accountability and responsibility. At the end there is a checklist and call to action for important, interesting aspects to consider.&lt;/p&gt;
+&lt;p&gt;Presented at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Great Exhibition Road Festival (June 2023, London)&lt;/li&gt;
+&lt;li&gt;European Congress on Infectious Diseases (April 2023, Copenhagen)&lt;/li&gt;
+&lt;li&gt;International Congress on Infectious Diseases (November 2022, Kuala Lumpur)&lt;/li&gt;
+&lt;li&gt;Great Exhibition Road Festival (March 2022, London)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

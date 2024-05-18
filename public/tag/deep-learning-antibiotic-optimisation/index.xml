@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning - Antibiotic Optimisation | Will Bolton</title>
+    <link>http://localhost:1313/tag/deep-learning-antibiotic-optimisation/</link>
+      <atom:link href="http://localhost:1313/tag/deep-learning-antibiotic-optimisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning - Antibiotic Optimisation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5e7fd483dc7a905bda29ff17f220e7b2_360339_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning - Antibiotic Optimisation</title>
+      <link>http://localhost:1313/tag/deep-learning-antibiotic-optimisation/</link>
+    </image>
+    
+    <item>
+      <title>Digital Solutions for Infectious Disease Session at ECCMID 2023</title>
+      <link>http://localhost:1313/talk/digital-solutions-for-infectious-disease-session-at-eccmid-2023/</link>
+      <pubDate>Sat, 15 Apr 2023 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/digital-solutions-for-infectious-disease-session-at-eccmid-2023/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

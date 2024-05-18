@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Will Bolton</title>
+    <link>http://localhost:1313/tag/machine-learning/</link>
+      <atom:link href="http://localhost:1313/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5e7fd483dc7a905bda29ff17f220e7b2_360339_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Intelligence Clinical Decision Support for Antibiotic Optimisation at ESCMID 2024</title>
+      <link>http://localhost:1313/talk/artificial-intelligence-clinical-decision-support-for-antibiotic-optimisation-at-escmid-2024/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/artificial-intelligence-clinical-decision-support-for-antibiotic-optimisation-at-escmid-2024/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI based clinical decision support system for intravenous to oral antibiotic switching</title>
+      <link>http://localhost:1313/project/cdss_demo/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cdss_demo/</guid>
+      <description>&lt;p&gt;A demo of the intravenous to oral antibiotic switch clinical decision support system with case vignettes. This is being used for research study to understand how clinicians involved in antibiotic prescribing interact with such as system and if AI predictions influence decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence for Antibiotic Stewardship</title>
+      <link>http://localhost:1313/talk/artificial-intelligence-for-antibiotic-stewardship/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/artificial-intelligence-for-antibiotic-stewardship/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personalising intravenous to oral antibiotic switch decision making through fair interpretable machine learning</title>
+      <link>http://localhost:1313/publication/ivos/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ivos/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning based clinical decision support for individualised antibiotic side effect prediction</title>
+      <link>http://localhost:1313/project/side_effect/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/side_effect/</guid>
+      <description>&lt;p&gt;In this study, we present a machine learning-based clinical decision support system for the individualised prediction of Acute Kidney Injury (AKI) following a Vancomycin with Piperacillin-Tazobactam (VPT) ad- ministration. AKI can be a critical side effect associated with the use of antibiotics, particularly in severely ill patients. Consequently, from a clinical perspective, being able to accurately predict the risk of AKI on an individual patient basis can contribute significantly to the decision making process by supporting decisions such as initiation and cessation of treatment as well as frequency of monitoring.&lt;/p&gt;
+&lt;p&gt;Our work uses a series of machine learning algorithms based on the electronic health records (EHR) of all the patients who were administered VPT in order to develop a predictive model for AKI. Taking into account that their corresponding explicit diagnoses stored are lacking timestamps and therefore cannot be evaluated in terms of reliability, it includes the development of an implicit label generation algorithm that can be used to produce accurate and detailed diagnostic information based on KDIGO AKI guidelines.&lt;/p&gt;
+&lt;p&gt;After applying a wide range of filters and experimenting with several data configurations, a comprehensive dataset was formed by incorporating patient demographics, medical history, and laboratory values and was used to train and evaluate our selection of algorithms. The final results obtained with our best performing model indicated a high level of effectiveness for our binary classifier in predicting the occurrence of AKI following a VPT administration. Specifically, an AUC estimation of ≈ 0.83 was achieved using a trained logistic regression model and 10-fold cross validation. This demonstrates a balanced trade off between sen- sitivity and specificity and showcases the model’s strong ability in distinguishing between the two classes.&lt;/p&gt;
+&lt;p&gt;In order to ascertain the validity of our results, a second EHR database was utilised. This indicated a consistency in the performance attained and consequently verified the generalisability of our model. As a result, we can conclude that the use of our suggested model could provide credible information to clinicians regarding potential side effects from antibiotic prescribing, enabling them to make informed decisions and optimise their use.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

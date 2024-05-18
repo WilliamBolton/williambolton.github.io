@@ -1,23 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Academic</title>
+    <title>Demo | Will Bolton</title>
     <link>http://localhost:1313/tag/demo/</link>
       <atom:link href="http://localhost:1313/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu5e7fd483dc7a905bda29ff17f220e7b2_360339_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>http://localhost:1313/tag/demo/</link>
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>http://localhost:1313/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/external-project/</guid>
-      <description></description>
+      <title>Generative AI for a smart global disease dashboard</title>
+      <link>http://localhost:1313/project/biothreat_demo/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/biothreat_demo/</guid>
+      <description>&lt;p&gt;The problem we tackled was detecting, monitoring, and briefing ministers on any potential emerging biological threats. Our solution, initially focused on flu, consolidated global information, and presented it in three distinct ways. Firstly, a weekly summary grounded in trusted resources is produced using retrieval-augmented generation and an LLM. Secondly through the NewsCatcher API, entity extraction, and sentiment analysis, daily insights are provided. Finally, we use the reasoning abilities of foundational models to compare the weekly and daily summaries to historical data and analyse if any potential biothreats are emerging. By collating numerous trusted sources, extracting key figures, and providing analysis, our solution provides a unique and comprehensive view on emerging biothreats for key decision makers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI based clinical decision support system for intravenous to oral antibiotic switching</title>
+      <link>http://localhost:1313/project/cdss_demo/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cdss_demo/</guid>
+      <description>&lt;p&gt;A demo of the intravenous to oral antibiotic switch clinical decision support system with case vignettes. This is being used for research study to understand how clinicians involved in antibiotic prescribing interact with such as system and if AI predictions influence decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Two Sides of Artificial Inteligence</title>
+      <link>http://localhost:1313/project/zine/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/zine/</guid>
+      <description>&lt;p&gt;The aim of the project was to create a small, accessible booklet in a zine format illustrating the key ideas behind the use of data, AI, and decision-support with a focus on healthcare applications. The zine is beginner friendly and tackle these topics from the prospective of those producing AI systems and those using them. It also touches on specific points including bias, accountability and responsibility. At the end there is a checklist and call to action for important, interesting aspects to consider.&lt;/p&gt;
+&lt;p&gt;Presented at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Great Exhibition Road Festival (June 2023, London)&lt;/li&gt;
+&lt;li&gt;European Congress on Infectious Diseases (April 2023, Copenhagen)&lt;/li&gt;
+&lt;li&gt;International Congress on Infectious Diseases (November 2022, Kuala Lumpur)&lt;/li&gt;
+&lt;li&gt;Great Exhibition Road Festival (March 2022, London)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

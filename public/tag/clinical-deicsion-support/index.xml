@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical Deicsion Support | Will Bolton</title>
+    <link>http://localhost:1313/tag/clinical-deicsion-support/</link>
+      <atom:link href="http://localhost:1313/tag/clinical-deicsion-support/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clinical Deicsion Support</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu5e7fd483dc7a905bda29ff17f220e7b2_360339_512x512_fill_lanczos_center_3.png</url>
+      <title>Clinical Deicsion Support</title>
+      <link>http://localhost:1313/tag/clinical-deicsion-support/</link>
+    </image>
+    
+  </channel>
+</rss>
