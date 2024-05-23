@@ -1,6 +1,6 @@
 # [Personal Website](https://williambolton.github.io/)
 
-[![Screenshot](screenshot.png)]
+![Screenshot](screenshot.png)
 
 Website outlining William Bolton's interests, education, experience, research publications, projects, talks and providing contact details. 
 
