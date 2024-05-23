@@ -49,7 +49,7 @@ featured: true
 #   url: http://example.org
 
 # url_pdf: '' WIP
-# url_code: '' WIP
+url_code: 'https://github.com/WilliamBolton/comorbidities_in_ai'
 #url_dataset: ''
 url_poster: 'poster.pdf'
 #url_project: ''

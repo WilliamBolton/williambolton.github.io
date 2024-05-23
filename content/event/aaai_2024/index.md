@@ -43,7 +43,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-#url_code: ''
+url_code: 'https://github.com/WilliamBolton/comorbidities_in_ai'
 #url_pdf: 'poster.pdf'
 url_poster: 'poster.pdf'
 url_slides: 'slides.pdf'
