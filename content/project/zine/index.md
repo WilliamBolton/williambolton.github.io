@@ -30,7 +30,7 @@ image:
   #   name: Follow
   #   url: https://twitter.com/georgecushen
 #url_code: "https://github.com/WilliamBolton/n10-genai-hack-2024"
-url_pdf: "https://bahp.github.io/portfolio-academic/assets/pdf/other/health-ai-zine/health-ai-zine.pdf"
+url_pdf: "ai_zine.pdf"
 url_slides: "https://bahp.github.io/flipbooks/bookshelves/bs1/index.html"
 #url_video: "https://youtu.be/JgHS2Swgb_U"
 

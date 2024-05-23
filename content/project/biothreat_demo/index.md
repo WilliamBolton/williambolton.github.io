@@ -27,7 +27,7 @@ image:
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/WilliamBolton/n10-genai-hack-2024"
+url_code: "https://github.com/WilliamBolton/n10_genai_hack"
 # url_pdf: "project/readmission/readmission_prediction.pdf"
 url_slides: "slides.pdf"
 url_video: "https://youtu.be/JgHS2Swgb_U"
