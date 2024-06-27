@@ -13,6 +13,54 @@
     </image>
     
     <item>
+      <title>Designing, evaluating and integrating AI decision support systems in healthcare</title>
+      <link>http://localhost:1313/talk/designing-evaluating-and-integrating-ai-decision-support-systems-in-healthcare/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/designing-evaluating-and-integrating-ai-decision-support-systems-in-healthcare/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How artificial intelligence can support antibiotic stewardship</title>
+      <link>http://localhost:1313/talk/how-artificial-intelligence-can-support-antibiotic-stewardship/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/how-artificial-intelligence-can-support-antibiotic-stewardship/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reliability of Biomedical LLM Assistants at ICLR 2024</title>
       <link>http://localhost:1313/talk/reliability-of-biomedical-llm-assistants-at-iclr-2024/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
@@ -154,10 +202,10 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     </item>
     
     <item>
-      <title>Artificial Intelligence for Antibiotic Stewardship</title>
-      <link>http://localhost:1313/talk/artificial-intelligence-for-antibiotic-stewardship/</link>
+      <title>The potential impact of Artificial Intelligence on Antimicrobial Resistance</title>
+      <link>http://localhost:1313/talk/the-potential-impact-of-artificial-intelligence-on-antimicrobial-resistance/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/artificial-intelligence-for-antibiotic-stewardship/</guid>
+      <guid>http://localhost:1313/talk/the-potential-impact-of-artificial-intelligence-on-antimicrobial-resistance/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -602,7 +650,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-734165829&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-217586493&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -612,7 +660,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-734165829&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-217586493&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

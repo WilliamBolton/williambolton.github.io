@@ -6,7 +6,7 @@ event_url: https://www.imperial.ac.uk/news/252655/imperial-civil-servants-join-f
 
 location: London, UK
 
-summary: Presented our hackathon project to >150 people at the No.10 Generative AI Hackathon
+summary: Gave a talk on our hackathon project to >150 people at the No.10 Generative AI Hackathon
 #abstract: 
 
 # Talk start and end times.

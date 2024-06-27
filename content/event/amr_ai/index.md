@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence for Antibiotic Stewardship
+title: The Potential Impact of Artificial Intelligence on Antimicrobial Resistance
 
 event: Impact of AI on AMR
 event_url: https://www.imperial.ac.uk/news/251876/impact-artificial-intelligence-amr-common-themes/
