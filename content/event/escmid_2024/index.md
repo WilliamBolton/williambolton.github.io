@@ -6,7 +6,7 @@ event_url: https://www.eccmid.org/
 
 location: Barcelona, Spain
 
-summary: Presented two posters at ESCMID 2024 a leading global conference on infectious disease
+summary: Presented two posters at ESCMID 2024 a leading global conference on infectious disease.
 #abstract: "Poster 1: Machine learning for antibiotic optimisation in multi-morbid patients
 #Poster 2: Machine learning based individualised intravenous-to-oral antibiotic switch decision support"
 

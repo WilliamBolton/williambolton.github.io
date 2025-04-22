@@ -63,8 +63,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Assosiate
+          company: Imperial College London
+          company_url: ''
+          company_logo: Imperial
+          #location: California
+          date_start: '2025-02-11'
+          date_end: ''
         - title: Fellow & Venture scientist
-          company: EWOR & Conception X
+          company: EWOR, Conception X and AI SuperConnector
           company_url: ''
           company_logo: ewor
           #location: California
@@ -84,13 +91,13 @@ sections:
           date_start: '2023-09-01'
           date_end: '2023-12-31'
           # description: Taught electronic engineering and researched semiconductor physics.
-        - title: AI for Health PhD Researcher
+        - title: AI for Health PhD Student
           company: Imperial College London
           company_url: ''
           company_logo: Imperial
           #location: California
           date_start: '2020-10-01'
-          date_end: ''
+          date_end: '2025-02-10'
     design:
       columns: '2'
   - block: collection
@@ -196,6 +203,8 @@ sections:
           tag: Demo
         - name: Clinical Decision Support
           tag: Clinical Decision Support
+        - name: Entrepreneurship
+          tag: Entrepreneurship
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

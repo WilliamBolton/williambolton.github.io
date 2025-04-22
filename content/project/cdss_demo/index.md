@@ -26,7 +26,7 @@ image:
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-url_code: 'https://github.com/WilliamBolton/cdss_demo'
+url_code: 'https://github.com/WilliamBolton/AI_IVOS_EVAL'
 #url_pdf: 'project/readmission/readmission_prediction.pdf'
 #url_slides: ''
 url_video: 'https://youtu.be/Qc0sKRBOwfU'

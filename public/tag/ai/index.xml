@@ -5,12 +5,36 @@
     <link>http://localhost:1313/tag/ai/</link>
       <atom:link href="http://localhost:1313/tag/ai/index.xml" rel="self" type="application/rss+xml" />
     <description>AI</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu5e7fd483dc7a905bda29ff17f220e7b2_360339_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu_6893c27ea56d3913.png</url>
       <title>AI</title>
       <link>http://localhost:1313/tag/ai/</link>
     </image>
+    
+    <item>
+      <title>Prospective evaluation of a machine learning decision support system for intravenous-to-oral antibiotic switching</title>
+      <link>http://localhost:1313/talk/prospective-evaluation-of-a-machine-learning-decision-support-system-for-intravenous-to-oral-antibiotic-switching/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/prospective-evaluation-of-a-machine-learning-decision-support-system-for-intravenous-to-oral-antibiotic-switching/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder&#39;s [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Designing, evaluating and integrating AI decision support systems in healthcare</title>
@@ -193,7 +217,7 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     </item>
     
     <item>
-      <title>The potential impact of Artificial Intelligence on Antimicrobial Resistance</title>
+      <title>The Potential Impact of Artificial Intelligence on Antimicrobial Resistance</title>
       <link>http://localhost:1313/talk/the-potential-impact-of-artificial-intelligence-on-antimicrobial-resistance/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talk/the-potential-impact-of-artificial-intelligence-on-antimicrobial-resistance/</guid>

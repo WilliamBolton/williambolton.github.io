@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI for Health PhD Student
+role: AI for Health Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Imperial College London
-      year: 2024
+      year: 2025
     - course: MPhil Bioscience Enterprise
       institution: University of Cambridge
       year: 2019
@@ -69,14 +69,22 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/William_Bolton_CV_May_2024.pdf
+  #- icon: cv
+  #  link: uploads/William_Bolton_CV_May_2024.pdf
+  #  icon_pack: ai
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Will is a PhD researcher in AI for healthcare at Imperial College London. His work focuses on machine learning based clinical decision support for antimicrobial optimisation. To date he has published 5 first authored publications in leading medical journals and AI conferences and conducted an internship at GSK.ai on the reliability of LLM’s in the biomedical domain. Beyond research he is highly interested in startups and how new innovative technology can create solutions to real world problems. He is currently part of EWOR as a Pre-Idea Fellow and ConceptionX as a venture scientist to explore entrepreneurship opportunities post his PhD.
+Hi, my name is Will! 
+
+I am interested in all things artificial intelligence (AI) and healthcare, and recently completed my PhD at Imperial College London. My PhD focused on researching AI-driven clinical decision support for antibiotic optimisation and resulted in the development of a web app that is currently being clinically evaluated. To date, I have published 5 first-authored publications in leading medical journals and AI conference workshops, including Nature Communications, AAAI and ICLR. During my PhD, I conducted an internship at GSK.ai on the reliability of LLM’s in the biomedical domain, and previously completed my Master’s in Bioscience Enterprise at the University of Cambridge. 
+
+I care about impact and am highly interested in entrepreneurship and how startups with new innovative technology can create solutions to real-world problems. I am currently working on several projects and exploring opportunities post my PhD.
+
+In my spare time, I like all things sports and am shortly undertaking my first marathon. 
+
+Feel free to get in contact!
 
 {style="text-align: justify;"}

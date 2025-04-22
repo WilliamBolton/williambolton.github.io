@@ -4,6 +4,7 @@ summary: "Winning team of the 'Biothreats Radar' problem at the No.10 Generative
 tags:
   - Demo
   - AI
+  - Entrepreneurship
 
 authors:
   - William Bolton

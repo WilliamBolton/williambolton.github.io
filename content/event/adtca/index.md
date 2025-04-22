@@ -43,7 +43,7 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: "https://github.com/WilliamBolton/"
+#url_code: "https://github.com/WilliamBolton/"
 #url_pdf: ''
 url_slides: 'slides.pdf'
 url_video: "https://www.youtube.com/watch?v=wKOb6RXZtYk&t=5520s"
