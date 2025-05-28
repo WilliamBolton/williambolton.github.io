@@ -63,14 +63,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assosiate
+        - title: Research Associate
           company: Imperial College London
           company_url: ''
           company_logo: Imperial
           #location: California
           date_start: '2025-02-11'
           date_end: ''
-        - title: Fellow & Venture scientist
+        - title: Fellow & Venture Scientist
           company: EWOR, Conception X and AI SuperConnector
           company_url: ''
           company_logo: ewor
@@ -100,17 +100,6 @@ sections:
           date_end: '2025-02-10'
     design:
       columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -180,13 +169,15 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  - block: portfolio
+  - block: collection # portfolio
     id: projects
     content:
       title: Projects
+      #count: 5 # Limit to 5 projects
       filters:
         folders:
           - project
+        #featured_only: true
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -205,12 +196,42 @@ sections:
           tag: Clinical Decision Support
         - name: Entrepreneurship
           tag: Entrepreneurship
+      archive:
+        enable: true
+        text: See all projects
+        link: project/
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: False
+  - block: portfolio
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+      buttons:
+        - name: All
+          tag: '*'
+        #- name: Demos
+        #  tag: Demo
+        - name: Clinical Decision Support
+          tag: Clinical Decision Support
+        - name: Large Language Models
+          tag: Large Language Models
+        - name: Data Representation
+          tag: Data Representation
+        - name: Artificial Intelligence
+          tag: AI
+        #- name: Entrepreneurship
+        #  tag: Entrepreneurship
+    design:
+      columns: '2'
+      view: card
   #- block: markdown
   #  content:
   #    title: Gallery
@@ -258,7 +279,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: william.bolton@imperial.ac.uk
       #phone: 888 888 88 88
-      appointment_url: 'https://calendly.com/will_bolton/teams_one_to_one'
+      #appointment_url: 'https://calendly.com/will_bolton/teams_one_to_one'
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford
@@ -274,11 +295,15 @@ sections:
       # coordinates:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
-      # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
-      #     name: DM Me
-      #     link: 'https://twitter.com/Twitter'
+      contact_links:
+        - icon: calendar
+          icon_pack: fas
+          name: Schedule a call
+          link: 'https://calendly.com/will_bolton/teams_one_to_one'
+      #  - icon: twitter
+      #    icon_pack: fab
+      #    name: DM Me
+      #    link: 'https://twitter.com/Twitter'
       #   - icon: skype
       #     icon_pack: fab
       #     name: Skype Me

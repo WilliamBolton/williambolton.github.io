@@ -83,7 +83,7 @@ I am interested in all things artificial intelligence (AI) and healthcare, and r
 
 I care about impact and am highly interested in entrepreneurship and how startups with new innovative technology can create solutions to real-world problems. I am currently working on several projects and exploring opportunities post my PhD.
 
-In my spare time, I like all things sports and am shortly undertaking my first marathon. 
+In my spare time, I like all things sports including rugby, running, climbing and F1. 
 
 Feel free to get in contact!
 

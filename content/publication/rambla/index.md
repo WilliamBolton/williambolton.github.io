@@ -39,6 +39,7 @@ summary: A framework for evaluating the reliability of LLMs as assistants in the
 tags:
   - AI
   - Responsible AI
+  - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true

@@ -7,3 +7,7 @@ Website outlining William Bolton's interests, education, experience, research pu
 URL: https://williambolton.github.io/
 
 Created using the Hugo Academic CV Theme
+
+To run locally use: 
+
+

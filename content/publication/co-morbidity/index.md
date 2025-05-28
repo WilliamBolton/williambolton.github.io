@@ -33,12 +33,13 @@ publication_short: In *AAAI W3PHIAI-24*
 abstract: Co-morbidities or long-term medical conditions are an essential piece of clinical information that can drastically alter a patient’s treatment, management and outcome. However, such data is difficult to apply to artificial intelligence (AI) systems due to its heterogeneity, sparsity and combinatorial complexity. This text proposes a novel pipeline to address such pitfalls by utilizing the structure of Systematized Nomenclature of Medicine Clinical Terms (SNOMED CT), the most extensive clinical vocabulary in the world, to create disease and co-morbid patient embeddings which can be used in downstream AI applications. We demonstrate that our method- ologies outperform existing approaches in classification and similar patient retrieval tasks. This research highlights that appropriate extraction and representation of clinical knowledge through innovative approaches can enable AI systems to advance personalized healthcare.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A innovative pipeline that uses clinical ontologies to generate comorbidity and patient representations for downstream AI tasks.
 
 tags:
   - AI
   - Deep Learning
   - Multimorbidity
+  - Data Representation
 
 # Display this page in the Featured widget?
 featured: true
