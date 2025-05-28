@@ -8,6 +8,6 @@ URL: https://williambolton.github.io/
 
 Created using the Hugo Academic CV Theme
 
-To run locally use: 
+To run locally use: hugo server -D 
 
 
