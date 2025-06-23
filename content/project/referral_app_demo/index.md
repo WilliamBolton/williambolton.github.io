@@ -3,7 +3,8 @@ title: Patient Refferal Application
 summary: 'Demo of web platform for medical professionals to chat, send and manage referrals, and consult an AI assistant.'
 tags:
   - Demo
-
+  - AI
+  - Entrepreneurship
 
 authors:
   - William Bolton
@@ -25,7 +26,7 @@ image:
 url_code: 'https://github.com/WilliamBolton/referral_app'
 #url_pdf: 'project/readmission/readmission_prediction.pdf'
 #url_slides: ''
-#url_video: 'https://youtu.be/Qc0sKRBOwfU'
+url_video: 'https://youtu.be/ohKTMvp8NQs'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

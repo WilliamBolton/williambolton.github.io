@@ -3,7 +3,8 @@ title: Prescription Agent Demo
 summary: 'Demo of an automated way to manage and respond to patients queries and messages.'
 tags:
   - Demo
-
+  - AI
+  - Entrepreneurship
 
 authors:
   - William Bolton

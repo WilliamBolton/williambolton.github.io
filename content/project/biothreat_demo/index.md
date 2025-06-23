@@ -1,6 +1,6 @@
 ---
 title: "Generative AI for a smart global disease dashboard"
-summary: "Winning team of the 'Biothreats Radar' problem at the No.10 Generative AI Hackathon 2024"
+summary: "Winning team of the 'Biothreats Radar' problem at the No.10 Generative AI Hackathon 2024."
 tags:
   - Demo
   - AI

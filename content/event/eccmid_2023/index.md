@@ -6,7 +6,7 @@ event_url: https://2023.eccmid.org/
 
 location: Copenhahen, Denmark
 
-summary: Presented my PhD research to >250 people at ECCMID 2023 a leading global conference on infectious disease
+summary: Presented my PhD research to >250 people at ECCMID 2023 a leading global conference on infectious disease.
 abstract: "Talk title: Machine learning based white blood count estimation for individualised antimicrobial cessation"
 
 # Talk start and end times.

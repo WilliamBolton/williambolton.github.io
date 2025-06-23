@@ -1,6 +1,6 @@
 ---
 title: Deep Learning for Individualised Antibiotic Readmission Prediction
-summary: 'Supervised masters student project'
+summary: 'Supervised masters student project.'
 tags:
   - AI
   - Deep Learning

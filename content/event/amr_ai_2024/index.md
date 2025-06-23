@@ -6,7 +6,7 @@ event_url: https://www.imperial.ac.uk/news/251876/impact-artificial-intelligence
 
 location: London, UK
 
-summary: Presented my PhD research to >100 people at an event exploring the impact of AI in research and practice on AMR
+summary: Presented my PhD research to >100 people at an event exploring the impact of AI in research and practice on AMR.
 
 #abstract: 
 

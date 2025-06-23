@@ -6,7 +6,7 @@ event_url: https://iclr.cc/
 
 location: Vienna Austria
 
-summary: Presented work conducted during my intership at GSK.ai at the ICLR 2024 Workshop on Reliable and Responsible Foundation Models
+summary: Presented work conducted during my intership at GSK.ai at the ICLR 2024 Workshop on Reliable and Responsible Foundation Models.
 #abstract: 
 
 # Talk start and end times.

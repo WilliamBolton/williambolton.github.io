@@ -1,6 +1,6 @@
 ---
 title: Machine learning based clinical decision support for individualised antibiotic side effect prediction
-summary: 'Supervised masters student project'
+summary: 'Supervised masters student project.'
 tags:
   - AI
   - Machine Learning

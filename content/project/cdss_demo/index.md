@@ -1,6 +1,6 @@
 ---
 title: AI based clinical decision support system for intravenous to oral antibiotic switching
-summary: 'Interactive demo of an AI based clinical decision support system'
+summary: 'Interactive demo of an AI based clinical decision support system.'
 tags:
   - Demo
   - Clinical Evalaution

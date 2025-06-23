@@ -6,7 +6,7 @@ event_url: https://aaai.org/aaai-conference/
 
 location: Vancoucer, Canada
 
-summary: Attended AAAI 2024 and presented my work on representing patients and their co-morbidities at the Health Intelligence Workshop
+summary: Attended AAAI 2024 and presented my work on representing patients and their co-morbidities at the Health Intelligence Workshop.
 #abstract: "Co-morbidity Representation in Artificial Intelligence: Tapping into Unused Clinical Knowledge"
 
 # Talk start and end times.

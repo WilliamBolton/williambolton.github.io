@@ -1,6 +1,6 @@
 ---
 title: "The Two Sides of Artificial Inteligence"
-summary: "Zine illustrating important aspects behind the development and use of AI systems"
+summary: "Zine illustrating important aspects behind the development and use of AI systems."
 tags:
   - Demo
   - AI

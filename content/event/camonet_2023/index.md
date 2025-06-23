@@ -6,7 +6,7 @@ event_url: https://camonet.org/
 
 location: London, UK
 
-summary: Talk on ethical and responsible AI for CAMO-Net, a Wellcome funded, multidisciplinary, global collaboration working together to address the impact of antimicrobial resistance on human health
+summary: Talk on ethical and responsible AI for CAMO-Net, a Wellcome funded, multidisciplinary, global collaboration working together to address the impact of antimicrobial resistance on human health.
 #abstract: 
 
 # Talk start and end times.
