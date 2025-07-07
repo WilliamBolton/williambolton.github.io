@@ -1,5 +1,5 @@
 ---
-title: "Working on AI agents for patient identification"
+title: "Working on an agentic AI system to identify patient cohorts"
 summary: ""
           
 tags:
