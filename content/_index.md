@@ -299,7 +299,7 @@ sections:
         - icon: calendar
           icon_pack: fas
           name: Schedule a call
-          link: 'https://calendly.com/will_bolton/teams_one_to_one'
+          link: 'https://calendly.com/williambolton/30min'
       #  - icon: twitter
       #    icon_pack: fab
       #    name: DM Me
