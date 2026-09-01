@@ -1,0 +1,17 @@
+.see-all {
+  text-align: center;
+}
+
+// Dark mode: make the active menu item use the primary colour (as in light mode) instead of bold grey.
+// Must out-specify the theme's own `.dark .navbar .navbar-nav .nav-link.active` rule.
+.dark .navbar#navbar-main .navbar-nav .nav-link.active,
+.dark .navbar#navbar-main .navbar-nav .active > .nav-link {
+  color: lighten($sta-primary, 22%) !important;
+}
+
+// Justify body text site-wide: bio, card summaries, page bodies and abstracts.
+.article-style,
+.pub-abstract,
+.article-container .article-style {
+  text-align: justify;
+}

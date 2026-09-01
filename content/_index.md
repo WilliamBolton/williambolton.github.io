@@ -63,13 +63,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 'Encode: AI for Science Fellow'
+          company: Pillar VC / University of Oxford
+          company_url: 'https://encode.pillar.vc/projects/drug-discovery'
+          company_logo: Encode
+          #location: California
+          date_start: '2025-09-01'
+          date_end: '2026-08-31'
         - title: Research Associate
           company: Imperial College London
-          company_url: ''
+          company_url: 'https://profiles.imperial.ac.uk/william.bolton'
           company_logo: Imperial
           #location: California
           date_start: '2025-02-11'
-          date_end: ''
+          date_end: '2025-06-30'
         - title: Fellow & Venture Scientist
           company: EWOR, Conception X and AI SuperConnector
           company_url: ''
@@ -77,6 +84,7 @@ sections:
           #location: California
           date_start: '2023-04-01'
           date_end: ''
+          date_display: '2023'
           # description: |2-
           #     Responsibilities include:
 
@@ -85,7 +93,7 @@ sections:
           #     * Deploying
         - title: AI/ML Engineering Intern, Responsible AI
           company: GSK.ai
-          company_url: ''
+          company_url: 'https://gsk.ai/our-work/semantic-similarity-to-evaluate-the-reliability-of-llms-in-biomedicine/'
           company_logo: gsk
           #location: California
           date_start: '2023-09-01'
@@ -93,7 +101,7 @@ sections:
           # description: Taught electronic engineering and researched semiconductor physics.
         - title: AI for Health PhD Student
           company: Imperial College London
-          company_url: ''
+          company_url: 'https://profiles.imperial.ac.uk/william.bolton'
           company_logo: Imperial
           #location: California
           date_start: '2020-10-01'
@@ -173,7 +181,7 @@ sections:
     id: projects
     content:
       title: Projects
-      #count: 5 # Limit to 5 projects
+      count: 6 # Show the 6 most recent projects
       filters:
         folders:
           - project
@@ -210,23 +218,24 @@ sections:
     id: featured
     content:
       title: Featured Publications
+      count: 6 # Show the 6 most recent publications
+      archive:
+        enable: true
+        text: See all publications
+        link: publication/
       filters:
         folders:
           - publication
         featured_only: true
       buttons:
         - name: All
-          tag: '*'
-        #- name: Demos
-        #  tag: Demo
-        - name: Clinical Decision Support
-          tag: Clinical Decision Support
+          filter: ':not(.js-beyond-count)' # most recent `count` items; tag filters below search all publications
+        - name: AI Scientists
+          tag: AI Scientists
         - name: Large Language Models
           tag: Large Language Models
-        - name: Data Representation
-          tag: Data Representation
-        - name: Artificial Intelligence
-          tag: AI
+        - name: Clinical Decision Support
+          tag: Clinical Decision Support
         #- name: Entrepreneurship
         #  tag: Entrepreneurship
     design:
@@ -258,9 +267,14 @@ sections:
     id: talks
     content:
       title: Recent Talks and Conferences
+      count: 6 # Show the 6 most recent talks/events
       filters:
         folders:
           - event
+      archive:
+        enable: true
+        text: See all talks and conferences
+        link: event/
     design:
       columns: '2'
       view: compact
@@ -277,7 +291,7 @@ sections:
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam #mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: william.bolton@imperial.ac.uk
+      email: hi@williambolton.co.uk
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com/will_bolton/teams_one_to_one'
       # address:
@@ -298,7 +312,7 @@ sections:
       contact_links:
         - icon: calendar
           icon_pack: fas
-          name: Schedule a call
+          name: Let's chat
           link: 'https://calendly.com/williambolton/30min'
       #  - icon: twitter
       #    icon_pack: fab

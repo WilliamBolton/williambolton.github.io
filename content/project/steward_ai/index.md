@@ -1,18 +1,6 @@
 ---
 title: "Steward.ai"
-summary: |
-  Converted my PhD research into a mobile app that any clinician can use anywhere.
-
-  Steward.ai is an AI-driven clinical decision support system designed to help
-  healthcare practitioners use antibiotics appropriately. The initial tool
-  focuses on supporting intravenous to oral antimicrobial switching (IVOS).
-  By inputting some basic patient details the AI algorithms will output a
-  suggested IVOS decision along with explainability information. This output
-  can be easily shared with other decision makers through text or image formats.
-  It also contains a flowchart tool based on the UKHSA guidelines. This system
-  has not yet undergone regulatory review, it is intended solely for research
-  use by healthcare professionals and is not a substitute for clinical judgment.
-          
+summary: "Converted my PhD research into a mobile app that any clinician can use anywhere: an AI-driven clinical decision support system for appropriate antibiotic use."
 tags:
   - Demo
   - AI
@@ -28,7 +16,13 @@ authors:
 date: "2025-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://steward-ai.co.uk/"
+external_link: ""
+
+links:
+  - icon: link
+    icon_pack: fas
+    name: Website
+    url: 'https://steward-ai.co.uk/'
 
 image:
   # caption: Photo by rawpixel on Unsplash
@@ -51,4 +45,5 @@ url_slides: "slides.pdf"
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
 Steward.ai is an AI-driven clinical decision support system designed to help healthcare practitioners use antibiotics appropriately. The initial tool focuses on supporting intravenous to oral antimicrobial switching (IVOS). By inputting some basic patient details the AI algorithms will output a suggested IVOS decision along with explainability information. This output can be easily shared with other decision makers through text or image formats. It also contains a flowchart tool based on the UKHSA guidelines. This system has not yet undergone regulatory review, it is intended solely for research use by healthcare professionals and is not a substitute for clinical judgment.

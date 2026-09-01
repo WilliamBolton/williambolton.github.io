@@ -68,6 +68,10 @@ url_slides: 'slides.pdf'
 
 #publications:
 #  - co-morbidity
+links:
+  - name: 'Project: Steward.ai'
+    url: '/project/steward_ai/'
+
 ---
 
 <!-- {{% callout note %}}

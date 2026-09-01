@@ -49,7 +49,7 @@ image:
 #     url: https://twitter.com/georgecushen
 #url_code: ''
 #url_pdf: ''
-#url_slides: 'slides.pdf'
+url_slides: 'slides.pdf'
 #url_video: ''
 
 # Markdown Slides (optional).
@@ -67,9 +67,14 @@ image:
 # projects:
 #   - example
 
+
 publications:
   - ivos
   - co-morbidity
+links:
+  - name: 'Paper: impact of AI decision support'
+    url: '/publication/cdss_prescribing/'
+
 ---
 
 <!-- {{% callout note %}}

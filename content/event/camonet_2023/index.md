@@ -62,6 +62,10 @@ url_slides: 'slides.pdf'
 # projects:
 #   - example
 
+links:
+  - name: 'Paper: moral AI for antimicrobial use'
+    url: '/publication/ethics/'
+
 publications:
   - ethics
 

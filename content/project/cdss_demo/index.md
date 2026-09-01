@@ -3,7 +3,7 @@ title: AI based clinical decision support system for intravenous to oral antibio
 summary: 'Interactive demo of an AI based clinical decision support system.'
 tags:
   - Demo
-  - Clinical Evalaution
+  - Clinical Evaluation
   - Machine Learning
   - Interpretability
   - Clinical Decision Support
@@ -39,4 +39,6 @@ url_video: 'https://youtu.be/Qc0sKRBOwfU'
 #slides: example
 ---
 
-A demo of the intravenous to oral antibiotic switch clinical decision support system with case vignettes. This is being used for research study to understand how clinicians involved in antibiotic prescribing interact with such as system and if AI predictions influence decisions.
+A demo of the intravenous to oral antibiotic switch clinical decision support system with case vignettes. It was built to study how clinicians involved in antibiotic prescribing interact with such a system and whether AI predictions influence their decisions.
+
+This is the system used in the Lancet Digital Health study [The impact of artificial intelligence-driven decision support on uncertain antimicrobial prescribing](/publication/cdss_prescribing/), in which 42 UK clinicians worked through the case vignettes with and without the AI recommendations and explanations. The underlying model is described in [Personalising intravenous to oral antibiotic switch decision making through fair interpretable machine learning](/publication/ivos/) (Nature Communications).

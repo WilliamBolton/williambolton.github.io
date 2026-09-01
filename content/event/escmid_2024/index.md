@@ -67,10 +67,25 @@ image:
 # projects:
 #   - example
 
+links:
+  - name: 'Paper: impact of AI decision support'
+    url: '/publication/cdss_prescribing/'
+  - name: 'Poster: impact of AI decision support'
+    url: '/talk/artificial-intelligence-clinical-decision-support-for-antibiotic-optimisation-at-escmid-2024/poster_iv_to_oral.pdf'
+  - name: 'Paper: co-morbidity representation'
+    url: '/publication/co-morbidity/'
+  - name: 'Poster: co-morbidity representation'
+    url: '/talk/artificial-intelligence-clinical-decision-support-for-antibiotic-optimisation-at-escmid-2024/poster_multimorbid.pdf'
+
 publications:
   - ivos
   - co-morbidity
 ---
+
+Two posters presented at ESCMID Global 2024:
+
+- **Machine learning based individualised intravenous-to-oral antibiotic switch decision support** ([poster](/talk/artificial-intelligence-clinical-decision-support-for-antibiotic-optimisation-at-escmid-2024/poster_iv_to_oral.pdf)), related paper: [The impact of AI-driven decision support on uncertain antimicrobial prescribing](/publication/cdss_prescribing/)
+- **Machine learning for antibiotic optimisation in multi-morbid patients** ([poster](/talk/artificial-intelligence-clinical-decision-support-for-antibiotic-optimisation-at-escmid-2024/poster_multimorbid.pdf)), related paper: [Co-morbidity Representation in Artificial Intelligence](/publication/co-morbidity/)
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

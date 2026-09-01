@@ -66,8 +66,13 @@ url_slides: 'slides.pdf'
 # projects:
 #   - example
 
+
 publications:
   - ivos
+links:
+  - name: 'Project: Steward.ai'
+    url: '/project/steward_ai/'
+
 ---
 
 <!-- {{% callout note %}}

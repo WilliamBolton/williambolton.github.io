@@ -67,6 +67,12 @@ url_slides: 'slides.pdf'
 
 #publications:
 #  - co-morbidity
+links:
+  - name: 'Project: Steward.ai'
+    url: '/project/steward_ai/'
+  - name: 'Paper: impact of AI decision support'
+    url: '/publication/cdss_prescribing/'
+
 ---
 
 <!-- {{% callout note %}}

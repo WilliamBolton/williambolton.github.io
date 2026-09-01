@@ -64,6 +64,10 @@ url_slides: 'slides.pdf'
 # projects:
 #   - example
 
+links:
+  - name: 'Paper: co-morbidity representation'
+    url: '/publication/co-morbidity/'
+
 publications:
   - co-morbidity
 ---

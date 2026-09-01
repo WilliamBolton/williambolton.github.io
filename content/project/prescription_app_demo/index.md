@@ -36,4 +36,6 @@ url_code: 'https://github.com/WilliamBolton/prescription_app'
 #slides: example
 ---
 
-Django REST API that classifies patient's messages into a request type and if appropriate, drafts a response.
+A Django REST API that acts as a message-handling agent for patient communications. Each sentence of an incoming patient message is classified into a request type, such as appointment scheduling, prescription renewal or lab-test interpretation, using regular-expression patterns first and falling back to an LLM when the pattern match is uncertain. Where a recognised request type is found, the agent drafts a suggested response for a clinician to review, and every request and response is logged for record-keeping.
+
+The API accepts a patient name, an optional recipient and a list of message strings, and returns the detected request types, the method used to classify them and an example drafted reply. Built with Django REST Framework, NLTK and the OpenAI API.

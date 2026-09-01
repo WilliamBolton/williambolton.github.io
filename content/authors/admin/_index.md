@@ -17,20 +17,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: AI for Health Researcher
+role: AI Researcher
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Imperial College London
+#organizations:
+#  - name: Imperial College London
     #url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include artificial intelligence, healthcare and entrepreneurship.
+bio: My interests include artificial intelligence, life sciences, healthcare and entrepreneurship.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Healthcare
+  - Agents
+  - AI Scientists
   - Entrepreneurship
 
 # Education to show in About widget
@@ -77,14 +77,30 @@ social:
 highlight_name: true
 ---
 
+Hi, my name is Will!
+
+I work at the intersection of AI and science. I recently completed my Encode AI for Science Fellowship (Pillar VC and the University of Oxford), where I researched AI scientists and agentic systems for clinical drug development. Over the last year I have had three papers at ICML 2026 and co-built two products: [et al.](/project/etal/), an AI-native reference manager for researchers and their agents, and [A2A Net](/project/a2a_net/), infrastructure that lets agents from different people and organisations work together.
+
+Before that, I completed my PhD in AI for Healthcare at Imperial College London, developing AI-driven clinical decision support for antibiotic prescribing. I have published eight first-authored papers in venues including Nature Communications, The Lancet Digital Health, and workshops at ICML, ICLR and AAAI. I have also interned at GSK.ai and hold a Master's in Bioscience Enterprise from the University of Cambridge.
+
+I care deeply about how new technology turns into products with real-world impact. Having finished the fellowship, I am now exploring what comes next, across startups, research labs and new ventures.
+
+In my spare time, I like all things sports including rugby, running, climbing and F1.
+
+Feel free to get in contact!
+
+
+<!-- Bio last updated: 1 September 2026 (after the Encode AI for Science Fellowship).
+
+Previous bio (early 2025), kept for reference:
+
 Hi, my name is Will! 
 
-I am interested in all things artificial intelligence (AI) and healthcare, and recently completed my PhD at Imperial College London. My PhD focused on researching AI-driven clinical decision support for antibiotic optimisation and resulted in the development of a web app that is currently being clinically evaluated. To date, I have published 5 first-authored publications in leading medical journals and AI conference workshops, including Nature Communications, AAAI and ICLR. During my PhD, I conducted an internship at GSK.ai on the reliability of LLM’s in the biomedical domain, and previously completed my Master’s in Bioscience Enterprise at the University of Cambridge. 
+I am interested in all things AI and healthcare, and recently completed my PhD at Imperial College London. My PhD focused on researching AI-driven clinical decision support for antibiotic optimisation and resulted in the development of a web app that is currently being clinically evaluated. To date, I have published 5 first-authored publications in leading medical journals and AI conference workshops, including Nature Communications, AAAI and ICLR. During my PhD, I conducted an internship at GSK.ai on the reliability of LLM's in the biomedical domain, and previously completed my Master's in Bioscience Enterprise at the University of Cambridge. 
 
-I care about impact and am highly interested in entrepreneurship and how startups with new innovative technology can create solutions to real-world problems. I am currently working on several projects and exploring opportunities post my PhD.
+I care about impact and am highly interested in entrepreneurship and how startups with new innovative technology can create solutions to real-world problems. I am currently working on several projects and exploring opportunities post my Encode Fellowship.
 
 In my spare time, I like all things sports including rugby, running, climbing and F1. 
 
 Feel free to get in contact!
-
-{style="text-align: justify;"}
+-->

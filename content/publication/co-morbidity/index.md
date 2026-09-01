@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-02-01T00:00:00Z'
-doi: ''
+doi: '10.1007/978-3-031-63592-2_14'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -55,7 +55,8 @@ url_code: 'https://github.com/WilliamBolton/comorbidities_in_ai'
 url_poster: 'poster.pdf'
 #url_project: ''
 url_slides: 'slides.pdf'
-#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'publication/co-morbidity/co-morbidity.pdf'
+url_source: 'https://link.springer.com/chapter/10.1007/978-3-031-63592-2_14'
 #url_video: 'https://youtube.com'
 
 # Featured image

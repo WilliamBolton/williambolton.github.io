@@ -66,6 +66,14 @@ url_slides: 'slides.pdf'
 # projects:
 #   - example
 
+links:
+  - name: 'Paper: moral AI for antimicrobial use'
+    url: '/publication/ethics/'
+  - name: 'Paper: IV-to-oral switch'
+    url: '/publication/ivos/'
+  - name: 'Paper: antimicrobial cessation'
+    url: '/publication/cessation/'
+
 publications:
   - ethics
   - ivos

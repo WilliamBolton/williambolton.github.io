@@ -1,0 +1,6 @@
+- id: pub_post_weblog
+  translation: Blog post
+- id: published_with
+  translation: Published with {hugoblox}, the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+- id: btn_source
+  translation: Source

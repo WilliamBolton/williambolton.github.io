@@ -36,4 +36,6 @@ url_video: 'https://youtu.be/ohKTMvp8NQs'
 #slides: example
 ---
 
-Application that enables clinicians to create, send, receive, and complete patient referrals. It also features an AI assistant for support and enables secure, real-time chat between users.
+A web platform that lets clinicians create, send, receive and complete patient referrals, chat with colleagues in real time, and consult an AI assistant for support and queries. It includes secure user authentication and role-based access for administrators, GPs and specialists, so each user sees the referrals and conversations relevant to them.
+
+Built with a Django backend and a React frontend; see the demo video for a walkthrough of the referral workflow and the assistant.

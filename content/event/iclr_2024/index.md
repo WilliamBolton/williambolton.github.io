@@ -45,7 +45,6 @@ image:
 url_code: 'https://github.com/WilliamBolton/rambla'
 #url_pdf: 'poster.pdf'
 url_poster: 'poster.pdf'
-url_source: 'https://arxiv.org/abs/2403.14578'
 #url_slides: 'slides.pdf'
 #url_video: ''
 
@@ -63,6 +62,10 @@ url_source: 'https://arxiv.org/abs/2403.14578'
 #   Otherwise, set `projects = []`.
 # projects:
 #   - example
+
+links:
+  - name: 'Paper: RAmBLA'
+    url: '/publication/rambla/'
 
 publications:
   - rambla

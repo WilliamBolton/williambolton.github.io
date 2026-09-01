@@ -44,10 +44,9 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: GSK.ai write-up
+    url: 'https://gsk.ai/our-work/semantic-similarity-to-evaluate-the-reliability-of-llms-in-biomedicine/'
 
 url_pdf: 'rambla.pdf'
 url_code: 'https://github.com/WilliamBolton/rambla'

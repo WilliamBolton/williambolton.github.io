@@ -64,6 +64,10 @@ url_slides: 'slides.pdf'
 # projects:
 #   - example
 
+links:
+  - name: 'Paper: antimicrobial cessation'
+    url: '/publication/cessation/'
+
 publications:
   - cessation
 ---
